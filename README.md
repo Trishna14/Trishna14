@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **new user**
 
-- 📫 How to reach me **trishnade67@gmail.com**
+- 📫 How to reach me **trishnadevi67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
