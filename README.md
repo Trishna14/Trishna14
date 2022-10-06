@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trishna</h1>
+<h1 align="center">Hello 👋, I'm Trishna</h1>
 <h3 align="center">A budding techie</h3>
 
 <p align="left"> <a href="https://twitter.com/trishnadevine" target="blank"><img src="https://img.shields.io/twitter/follow/trishnadevine?logo=twitter&style=for-the-badge" alt="trishnadevine" /></a> </p>
