@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/trishnadevine" target="blank"><img src="https://img.shields.io/twitter/follow/trishnadevine?logo=twitter&style=for-the-badge" alt="trishnadevine" /></a> </p>
 
-- 🔭 I’m currently working on **new user**
+- 🔭 **new user**
 
 - 📫 How to reach me **trishnadevi67@gmail.com**
 
